@@ -1,0 +1,7 @@
+language: java
+jdk:
+  - openjdk17
+
+script:
+  - javac -d bin src/*.java test/*.java
+  - java -cp bin org.junit.runner.JUnitCore MainTest
