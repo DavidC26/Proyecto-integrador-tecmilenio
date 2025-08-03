@@ -1,0 +1,10 @@
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+
+public class MainTest {
+
+    @Test
+    void pruebaSuma() {
+        assertEquals(4, 2 + 2);
+    }
+}
