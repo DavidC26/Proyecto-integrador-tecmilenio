@@ -40,6 +40,19 @@ Este proyecto implementa:
 - [Instalación](#-instalación)
 - [Configuración](#-configuración)
 - [Uso](#-uso)
+## Uso
+
+### Usuario Final
+1. Abrir el navegador y acceder a `http://localhost:8080/miapp`.
+2. Iniciar sesión con las credenciales registradas.
+3. Navegar por el menú principal para acceder a las funciones disponibles.
+4. Cerrar sesión al terminar.
+
+### Administrador
+1. Iniciar sesión con usuario administrador.
+2. Acceder al panel de administración.
+3. Gestionar usuarios, permisos y configuración del sistema.
+4. Revisar los reportes y estadísticas.
 - [Contribución](#-contribución)
 - [Roadmap](#-roadmap)
 - [Producto](#-producto)
