@@ -38,7 +38,16 @@ Este proyecto implementa:
 - [Arquitectura](#-arquitectura)
 - [Requerimientos](#-requerimientos)
 - [Instalación](#-instalación)
-- [Configuración](#-configuración)
+## Instalación
+
+1. Clonar el repositorio desde GitHub:
+   ```bash
+   git clone https://github.com/usuario/nombre-repo.git- [Configuración](#-configuración)
+## Configuración
+
+1. Abrir el archivo `config.properties` ubicado en la carpeta `src/main/resources`.
+2. Configurar la conexión a la base de datos:
+
 - [Uso](#-uso)
 ## Uso
 
@@ -54,7 +63,12 @@ Este proyecto implementa:
 3. Gestionar usuarios, permisos y configuración del sistema.
 4. Revisar los reportes y estadísticas.
 - [Contribución](#-contribución)
-- [Roadmap](#-roadmap)
+## Contribución
+
+1. Realiza un fork del repositorio.
+2. Crea una rama para tu nueva funcionalidad:
+   ```bash
+   git checkout -b mi-nueva-funcionalidad- [Roadmap](#-roadmap)
 - [Producto](#-producto)
 
 ---
