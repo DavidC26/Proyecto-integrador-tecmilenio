@@ -38,7 +38,17 @@ Este proyecto implementa:
 - [Arquitectura](#-arquitectura)
 - [Requerimientos](#-requerimientos)
 - [Instalación](#-instalación)
-## Instalación
+- [Roadmap](#-roadmap)
+## Roadmap
+
+A continuación se presentan las mejoras y funciones planificadas para versiones futuras:
+
+- Implementar autenticación con OAuth 2.0 (Google y Facebook).
+- Agregar soporte para múltiples idiomas.
+- Mejorar el diseño responsivo para dispositivos móviles.
+- Incluir reportes descargables en PDF y Excel.
+- Integrar notificaciones por correo electrónico para eventos importantes.
+- Optimizar consultas a la base de datos para mejorar el rendimiento.## Instalación
 
 1. Clonar el repositorio desde GitHub:
    ```bash
